@@ -19,4 +19,4 @@ By studying React's principles and its role in creating modular and reusable com
 7. [React Hooks: useState and useEffect](./7.React_Hooks_useState_and_useEffect.md)
 8. [Managing State with Redux](./8.Managing_State_with_Redux.md)
 9. [React Router: Navigating between Pages](./9.React_Router_Navigating_between_Pages.md)
-10. Advanced Topics: Context API and React Performance Optimization
+10. [Advanced Topics: Context API and React Performance Optimization](./10.Advanced_Topics_Context_API.md)
