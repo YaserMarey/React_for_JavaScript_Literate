@@ -11,7 +11,7 @@ By studying React's principles and its role in creating modular and reusable com
 
 ## Table of content
 1. [Introduction to React and JSX](./1.Introduction_to_React_and_JSX.md)
-2. [React Components and Component's Props and State](./2.Components_and_Component_Props_and_State.md)
+2. [React Components and Component's Props and State](./2.Component_Props_and_State.md)
 3. [State and Props in React](./3.State_and_Props_in_%20React.md)
 4. [Handling Events in React](./4.Handling_Events_in_React.md)
 5. [Conditional Rendering and Lists in React](./5.Conditional_Rendering_and_Lists_in_React.md)
